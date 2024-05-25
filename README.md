@@ -1,1 +1,1 @@
-# slider v3.0
+# Slider v3.0
